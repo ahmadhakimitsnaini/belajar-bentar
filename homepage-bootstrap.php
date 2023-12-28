@@ -108,4 +108,6 @@
 </html>
 
 //Java Script start
-<script><script>
+<script>
+  console.log(JSON.parse(JSON.stringify(obj)));
+<script>
