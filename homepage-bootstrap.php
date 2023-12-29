@@ -106,12 +106,3 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   </body>
 </html>
-
-//Java Script start
-<script>
-  console.log(JSON.parse(JSON.stringify(obj)));
-<script>
-//javascript fitur baru
-  <script>
-  console.log(JSON.parse(JSON.stringify(obj)));
-  <script>
